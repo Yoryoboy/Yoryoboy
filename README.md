@@ -16,7 +16,7 @@ production integrations for real businesses. Based in Buenos Aires, Argentina.
 ### Recently
 
 <!-- RECENT:START -->
-- [**ai-ugc-commerce-studio**](https://github.com/Yoryoboy/ai-ugc-commerce-studio) <sub>· updated · Nov 24, 2026</sub>
+- [**ai-ugc-commerce-studio**](https://github.com/Yoryoboy/ai-ugc-commerce-studio) <sub>· updated · Nov 25, 2026</sub>
 - [**ArcaMCP**](https://github.com/Yoryoboy/ArcaMCP) <sub>· updated · Nov 2, 2026</sub>
 - [**connectif-mcp**](https://github.com/Yoryoboy/connectif-mcp) <sub>· updated · Oct 23, 2026</sub>
 - [**ghostlink**](https://github.com/Yoryoboy/ghostlink) <sub>· updated · Oct 16, 2026</sub>
